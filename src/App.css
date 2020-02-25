@@ -1,0 +1,20 @@
+body{
+  margin: 0;
+}
+/* .tc{
+  background: cyan;
+} */
+
+/* @font-face {
+  font-family: 'SEGA LOGO FONT';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+  } */
+  .f1 {
+    /* font-family: 'SEGA LOGO FONT'; */
+    color: rgb(12, 141, 113);
+    text-align: center;
+    margin-top: 0px;
+  
+  }

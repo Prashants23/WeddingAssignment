@@ -1,0 +1,23 @@
+  
+
+.Card{
+    text-align: center;
+    display: inline-block;
+    background: rgb(130, 235, 212);
+    padding: 0px;
+    margin: 5px;
+    transition: all 300ms ease-out;
+    box-shadow: lightslategray;
+    border-radius: 5%;
+    /* font-size: 8px; */
+    /* height: 170px;
+    width: 150px; */
+    border-width: thick;
+    box-shadow: 1px 1px rgb(187, 178, 178);
+}
+/* img{
+    height: 100px;
+} */
+.Card:hover{
+    transform: scale(1.05);
+}
